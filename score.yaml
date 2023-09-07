@@ -21,6 +21,8 @@ resources:
     type: dns
   galleda:
     type: s3
+  vermell:
+    type: redis
   route:
     type: route
     params:
